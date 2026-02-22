@@ -11,38 +11,39 @@ The "piscine" is a month-long “competition” involving an average of 500 peop
 <ins>location</ins> : ***42 Paris***
 
 #### Days
-- sh 00 - ***65/100*** ✅
-- sh 01 - ***60/100*** ✅
-- c 00 - ***70/100*** ✅
-- c 01 -​ ***100/100*** ✅
-- c 02 - ***85/100*** ✅
-- c 03 - ***100/100*** ✅
-- c 04 -​ ***100/100*** ✅
-- c 05 -​ ***80/100*** ✅
-- c 06 -​ ***100/100*** ✅
-- c 07 -​ ***100/100*** ✅
-- c 08 -​ ***100/100*** ✅
-- c 09 -​ ***100/100*** ✅
-- c 10 ​-​ ***15/100*** ❌
-- c 11 -​ ***50/100*** ✅
-- c 12 - ***not enough time***
-- c 13 - ***not enough time***
+- [sh 00](https://github.com/DisSaith/42-Piscine/tree/main/sh00) - ***65/100*** ✅
+- [sh 01](https://github.com/DisSaith/42-Piscine/tree/main/sh01) - ***60/100*** ✅
+- [c 00](https://github.com/DisSaith/42-Piscine/tree/main/c00) - ***70/100*** ✅
+- [c 01](https://github.com/DisSaith/42-Piscine/tree/main/c01)​ - ***100/100*** ✅
+- [c 02](https://github.com/DisSaith/42-Piscine/tree/main/c02) - ***85/100*** ✅
+- [c 03](https://github.com/DisSaith/42-Piscine/tree/main/c03) - ***100/100*** ✅
+- [c 04](https://github.com/DisSaith/42-Piscine/tree/main/c04)​ - ***100/100*** ✅
+- [c 05](https://github.com/DisSaith/42-Piscine/tree/main/c05)​ - ***80/100*** ✅
+- [c 06](https://github.com/DisSaith/42-Piscine/tree/main/c06)​ - ***100/100*** ✅
+- [c 07](https://github.com/DisSaith/42-Piscine/tree/main/c07) -​ ***100/100*** ✅
+- [c 08](https://github.com/DisSaith/42-Piscine/tree/main/c08) -​ ***100/100*** ✅
+- [c 09](https://github.com/DisSaith/42-Piscine/tree/main/c09)​ - ***100/100*** ✅
+- [c 10](https://github.com/DisSaith/42-Piscine/tree/main/c10) -​ ***15/100*** ❌
+- [c 11](https://github.com/DisSaith/42-Piscine/tree/main/c11) -​ ***50/100*** ✅
+- [c 12](https://github.com/DisSaith/42-Piscine/tree/main/c12) - ***not enough time*** ⌛
+- [c 13](https://github.com/DisSaith/42-Piscine/tree/main/c11) - ***not enough time*** ⌛
+
 
 #### Rushs
-- rush 00 - ***0/100***  ❌  
+- [rush 00](https://github.com/DisSaith/42-Piscine/tree/main/rush00) - ***0/100***  ❌  
 <img src="images/rush_00.png" width="384"/>  
 
 
 
 
-- rush 01 - ***0/100*** ❌  
+- [rush 01](https://github.com/DisSaith/42-Piscine/tree/main/rush01) - ***0/100*** ❌  
 <img src="images/rush_01.png" width="384"/>  
 
 
 
 
-- rush 02 - ***0/100*** ❌  
-<img src="images/rush_02.png" width="384"/>  
+- [rush 02](https://github.com/DisSaith/42-Piscine/tree/main/rush02) - ***0/100*** ❌  
+<img src="images/rush_02.png" width="384"/> 
 
 #### Exams
 - exam 00 - ***100/100*** ✅
