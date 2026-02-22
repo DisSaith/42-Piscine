@@ -2,6 +2,10 @@
 Last piscine before 42 Next
 
 ![rat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd0bHNpaGN4ZmVuYjM5dmR0dWVmc3dlMDdxb3FvbzdxcTUwYjdwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oae3Nv1fd0CYM/giphy.gif)
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd0bHNpaGN4ZmVuYjM5dmR0dWVmc3dlMDdxb3FvbzdxcTUwYjdwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oae3Nv1fd0CYM/giphy.gif3 width="400">
+</p>
+> during ma training
 
 
 ### 🏊 My Piscine  
