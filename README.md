@@ -49,3 +49,7 @@
 
 <ins>final level</ins> : ***9,69***  
 <img src="images/final_score.png" width="384"/> 
+
+## Author
+Antoine COHAUT aka "DisSaith"  
+<ins> 42 login</ins> : acohaut
