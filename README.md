@@ -2,8 +2,10 @@
 
 ![rat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd0bHNpaGN4ZmVuYjM5dmR0dWVmc3dlMDdxb3FvbzdxcTUwYjdwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oae3Nv1fd0CYM/giphy.gif)
 
+### Introduction
+The "piscine" is a month-long “competition” involving an average of 500 people, designed to introduce them to the 42 educational system and IT development. I participated in the last "piscine" before the transition to 42 next and a renewal for the school.
 
-### 🤓 My experience  
+### My experience  
 
 <ins>date</ins> : ***september 2025***  
 <ins>location</ins> : ***42 Paris***
@@ -23,6 +25,8 @@
 - c 09 -​ ***100/100*** ✅
 - c 10 ​-​ ***15/100*** ❌
 - c 11 -​ ***50/100*** ✅
+- c 12 - ***not enough time***
+- c 13 - ***not enough time***
 
 #### Rushs
 - rush 00 - ***0/100***  ❌  
